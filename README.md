@@ -1,3 +1,8 @@
-# JavaScript exercises
-- exercises_JS.pdf - contains exercises for JS beginers
-- exercises_JS_done.txt - contains my solusions for exercises
+# Lotto Generator
+- genrates 6 lucky numbers based on user's birth date
+- stores result with current date in memory 
+- before the draw, compares the dates so only one draw per day can take place
+
+## GOOD LUCK !
+
+- Live Site URL: [Lotto Generator](https://cookiemonstersopot.github.io/lottoGenerator/)
